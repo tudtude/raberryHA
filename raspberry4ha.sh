@@ -14,3 +14,6 @@ sudo usermod -aG docker ${USER}
 
 echo "-------------------- Install jq -------------"
 sudo apt install jq -y
+
+echo "-------------------- Install network manager -----------------"
+sudo apt  install network-manager
