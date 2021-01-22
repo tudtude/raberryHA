@@ -16,4 +16,4 @@ echo "-------------------- Install jq -------------"
 sudo apt install jq -y
 
 echo "-------------------- Install network manager -----------------"
-sudo apt  install network-manager
+sudo apt  install network-manager -y
